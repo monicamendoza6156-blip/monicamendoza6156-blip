@@ -1,8 +1,8 @@
 <!-- Encabezado -->
 <div align="center">
-  <img src="blue_image.gif" width="100%" alt="Wide banner with a blue digital background." />
-
-  <h1>Hi! I'm Monica <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <img src="imagenes/blue_image.gif" width="100%" alt="Wide banner with a blue digital background." />
+<h1 align="center">Hi! I'm Monica <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+</h1>
 </div>
 
 
